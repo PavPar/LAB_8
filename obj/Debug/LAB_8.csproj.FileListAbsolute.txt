@@ -1,0 +1,12 @@
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_8\bin\Debug\LAB_8.exe.config
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_8\bin\Debug\LAB_8.exe
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_8\bin\Debug\LAB_8.pdb
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_8\obj\Debug\LAB_8.csprojAssemblyReference.cache
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_8\obj\Debug\LAB_8.Properties.Resources.resources
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_8\obj\Debug\LAB_8.csproj.GenerateResource.cache
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_8\obj\Debug\LAB_8.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_8\obj\Debug\LAB_8.exe
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_8\obj\Debug\LAB_8.pdb
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_8\obj\Debug\LAB_8.AddValue.resources
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_8\obj\Debug\LAB_8.Form1.resources
+C:\Users\Pasha\Desktop\C#\Sharp\LAB_8\obj\Debug\LAB_8.ShowStat.resources
